@@ -1,0 +1,30 @@
+#Merit Badges
+
+Each student enrolled in Hack Lab 2018 will be eligible to earn merit badges.
+
+Most merit badges can only be earned by a single student who successfully reaches the qualifying criteria first.
+
+The criteria for some merit badges will be published, others will not be. Hexadecim8 reserves the right to add more badges to the class as the year goes on, new badges will be updated on this list, so don't forget to check the list!
+
+The published list of merit badges is as follows:
+
+- "Squeaky Clean"
+  - Clean code can be earned by 2 students who have displayed an aptitude for turning in exceptionally clean code. Hexadecim8 will be the judge of this.
+
+- "Bleeding Heart Hacker"
+  - The Bleeding Heart Hacker badge can be won by the first student to show PoC for the infamous "heartbleed" exploit. 
+
+- "The Last Aircracker"
+  - The Last Aircracker badge can be won by the first student to show PoC for cracking a WEP password
+
+- "Friends Don't Let Friends Use SMBv1"
+  - The Friends Don't Let Friends Use SMBv1 badge can be won by the first student to successfully own SMBv1 using their choice of exploit.
+
+- "Alohomora"
+  - No lock will ever break your stride. The first student to successfully pick a lock will earn the Alohomora badge
+
+- "Cowabunga, dude!"
+  - Are you feeling shellshocked? You won't be if you're the first to PoC the shellshock exploit.
+
+- "They're Always After Me Lucky Charms"
+  - If you're the first to crack a hash with Rainbow Tables, you could be the owner of this magnificent badge.
