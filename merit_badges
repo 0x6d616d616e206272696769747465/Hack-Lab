@@ -9,22 +9,29 @@ The criteria for some merit badges will be published, others will not be. Hexade
 The published list of merit badges is as follows:
 
 - "Squeaky Clean"
+  - Earned By: 
   - Clean code can be earned by 2 students who have displayed an aptitude for turning in exceptionally clean code. Hexadecim8 will be the judge of this.
 
 - "Bleeding Heart Hacker"
+  - Earned By:
   - The Bleeding Heart Hacker badge can be won by the first student to show PoC for the infamous "heartbleed" exploit. 
 
 - "The Last Aircracker"
+  - Earned By:
   - The Last Aircracker badge can be won by the first student to show PoC for cracking a WEP password
 
 - "Friends Don't Let Friends Use SMBv1"
+  - Earned By:
   - The Friends Don't Let Friends Use SMBv1 badge can be won by the first student to successfully own SMBv1 using their choice of exploit.
 
 - "Alohomora"
+  - Earned By:
   - No lock will ever break your stride. The first student to successfully pick a lock will earn the Alohomora badge
 
 - "Cowabunga, dude!"
+  - Earned By:
   - Are you feeling shellshocked? You won't be if you're the first to PoC the shellshock exploit.
 
 - "They're Always After Me Lucky Charms"
+  - Earned By:
   - If you're the first to crack a hash with Rainbow Tables, you could be the owner of this magnificent badge.
