@@ -7,10 +7,10 @@ In this repo, you will find class materials, including local files that can be u
 Follow this project for updates on lessons learned, more content and more detailed directions to come as time goes on.
 
 
-##References:
-###Various
+## References:
+### Various
 https://1337list.wufoo.com/forms/1337list-alphatesting/
-###Exploitation
+### Exploitation
 https://www.hackingtutorials.org/exploit-tutorials/buffer-overflow-explained-basics/
 
 Special thanks to @hexwaxwing
