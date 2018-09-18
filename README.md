@@ -8,6 +8,8 @@ Follow this project for updates on lessons learned, more content and more detail
 
 
 ##References:
+###Various
+https://1337list.wufoo.com/forms/1337list-alphatesting/
 ###Exploitation
 https://www.hackingtutorials.org/exploit-tutorials/buffer-overflow-explained-basics/
 
