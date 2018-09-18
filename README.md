@@ -6,4 +6,9 @@ This class is intended for high school students (preferably ages 14+) who have h
 In this repo, you will find class materials, including local files that can be used for setting up your very own Hackpi!
 Follow this project for updates on lessons learned, more content and more detailed directions to come as time goes on.
 
+
+##References:
+###Exploitation
+https://www.hackingtutorials.org/exploit-tutorials/buffer-overflow-explained-basics/
+
 Special thanks to @hexwaxwing
