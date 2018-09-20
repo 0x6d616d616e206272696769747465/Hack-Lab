@@ -19,4 +19,5 @@ furiosa = our hostname
 
   ![alt-text](https://github.com/emilymaxima/Hack-Lab/blob/master/lesson_plans/week_2/1_Connect.png?raw=true)
 
+In either case, you will see a fingerprint and be asked if you want to accept the fingerprint, type (or click) ```yes``` and press enter
 Now that we have a shell on our remote machine, we can start playing with some linux commands!
