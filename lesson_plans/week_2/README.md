@@ -16,6 +16,5 @@ furiosa = our hostname
 1. Open Putty
 2. Type in <username>@<hostname> into the field at the top of the window
   * Should look like this:
-
-
+  ![alt-text](https://github.com/emilymaxima/Hack-Lab/blob/master/lesson_plans/week_2/1_Connect.png?raw=true)
 Now that we have a shell on our remote machine, we can start playing with some linux commands!
