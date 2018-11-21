@@ -8,6 +8,10 @@ apt update && apt upgrade
 echo "installing metasploit..."
 apt install metasploit-framework
 
+#install sshpass
+echo "installing sshpass"
+apt install sshpass
+
 #copy git
 echo "copying git directory"
 git clone https://github.com/emilymaxima/Hack-Lab.git
