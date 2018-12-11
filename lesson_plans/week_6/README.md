@@ -1,6 +1,5 @@
-## Outline
+##Outline
+Began our discussions on exploitation and reverse engineering. What it is, and what we can get out of it.
+Talked a little about 0-day findings and how the marketplace operates in response to 0-day exploits.
 
-During this week's class, we talked a little more about programs & scripts.
-We talked a little about how redirect exploits work, but not without getting too much into the dirty details. 
-
-So far, one student has cracked a backdoor account, and possibly shared it with others. Deployment & testing of alternate implants has been successful ++
+We also started talking about some of the legality around exploitation and what is needed in order to exploit something successfully.
